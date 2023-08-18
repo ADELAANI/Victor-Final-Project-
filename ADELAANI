@@ -1,3 +1,6 @@
+
+# Additional Authors:
+ # <ADELAANI>
 // Define the variables to store the principal, rate of interest, and time
 var p = 1000; // Principal amount
 var r = 0.05; // Rate of interest
